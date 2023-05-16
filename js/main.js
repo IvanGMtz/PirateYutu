@@ -11,7 +11,7 @@ boton.addEventListener("click", () => {
     const options = {
       method: 'GET',
       headers: {
-        'X-RapidAPI-Key': '',
+        'X-RapidAPI-Key': 'aaae3ef658msh451c8cdc3dc7901p195a71jsna3ed1b1c302a',
         'X-RapidAPI-Host': 'youtube138.p.rapidapi.com'
       }
     };
@@ -30,7 +30,7 @@ boton.addEventListener("click", () => {
     const options = {
       method: 'GET',
       headers: {
-        'X-RapidAPI-Key': '',
+        'X-RapidAPI-Key': 'aaae3ef658msh451c8cdc3dc7901p195a71jsna3ed1b1c302a',
         'X-RapidAPI-Host': 'youtube138.p.rapidapi.com'
       }
     };
@@ -50,7 +50,7 @@ boton.addEventListener("click", () => {
     const options = {
       method: 'GET',
       headers: {
-        'X-RapidAPI-Key': '',
+        'X-RapidAPI-Key': 'aaae3ef658msh451c8cdc3dc7901p195a71jsna3ed1b1c302a',
         'X-RapidAPI-Host': 'youtube138.p.rapidapi.com'
       }
     };
